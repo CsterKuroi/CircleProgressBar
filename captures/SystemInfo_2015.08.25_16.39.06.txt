@@ -1,0 +1,2 @@
+Bad activity command, or no activities match: me.tedyin.circleprogressbar
+Use -h for help.
